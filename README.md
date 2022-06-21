@@ -1,4 +1,8 @@
-### Hi there 👋
+###  Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
+
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
@@ -14,6 +18,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=chartreuse-dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast&show_icons=true)
+
+
+[![Snake animation](https://github.com/ArielCalisaya/ArielCalisaya/blob/output-snake-commits/github-contribution-grid-snake.svg)](https://github.com/ArielCalisaya)
 <!--
 **persyjr/persyjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

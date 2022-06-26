@@ -7,7 +7,7 @@
 <div>
 
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+## ⬇ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 | who I am | me |
 | --- | --- |
 | ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) | <ul align="left" width="35%"><li>🔭I’m currently working on [TallerApp](https://github.com/persyjr/TallerApp-project-latam-5.git</li><li>🌱 I’m currently learning **React-Bootstrap, SQLAlchemy, Flask JWT- Reac-Router**</li><li>👯 I’m looking to collaborate on [Collaborative Web-Site](https://github.com/persyjr/exercise-collaborative-html-website.git)</li><li>👨‍💻 All of my projects are available at [https://github.com/persyjr?tab=repositories](https://github.com/persyjr?tab=repositories)</li></ul></div> |

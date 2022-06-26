@@ -39,7 +39,8 @@
 - Contribute code 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕]
 - 🔨 Build My house and have a home.
 - Contribute code to Google, Facebook and Instagram
-- I want to Know the World.   
+- I want to visit many countries in the World.
+- Create my foundation and help many people.
 
 <!-- QUOTES-->
 ## ♥  Favorites Quotes     

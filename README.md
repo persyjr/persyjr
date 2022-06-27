@@ -1,8 +1,8 @@
 <!--SALUDO Y CONTADOR -->  
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=persyjr&label=Profile%20views&color=0e75b6&style=flat" alt="persyjr" /> </div>
 <div width="35%" align="center">
-  <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="100" />, I'm Alejandro Delgado.
-    <h3 align="center">A passionate Full-Stack Developer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />     </h3> 
+  <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="100" />, I'm Alejandro Delgado and this is my    Git-Hub<h3 align="center">A passionate Full-Stack Developer
+   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"      width="45" />     </h3> 
   </h1>
 </div>  
 <div>

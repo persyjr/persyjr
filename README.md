@@ -8,38 +8,30 @@
 <div>
 
 <!-- PRIMER TABLA-->  
-# ⬇ who I am ?
+# ⬇ who am I?
 | Full-Stack Web Developer, Engineer | My Projects |
 | --- | --- |
-| ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) | <ul align="left" width="35%"><li>🔭I’m currently working on [TallerApp](https://github.com/persyjr/TallerApp-project-latam-5.git</li><li>🌱 I’m currently learning **React-Bootstrap, SQLAlchemy, Flask JWT- Reac-Router**</li><li>👯 I’m looking to collaborate on [Collaborative Web-Site](https://github.com/persyjr/exercise-collaborative-html-website.git)</li><li>👨‍💻 All of my projects are available at [https://github.com/persyjr?tab=repositories](https://github.com/persyjr?tab=repositories)</li></ul></div> |
-
-<!-- SNAKE GAME-->  
-[![Snake animation](https://github.com/ArielCalisaya/ArielCalisaya/blob/output-snake-commits/github-contribution-grid-snake.svg)](https://github.com/persyjr)
+| ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) | <ul align="left" width="35%"><li>🔭I’m currently working on [TallerApp](https://github.com/persyjr/TallerApp-project-latam-5.git</li><li>🌱 I know about **React-Bootstrap, SQLAlchemy, Flask JWT- Reac-Router**</li><li>👯 I was Colaborating in [Collaborative Web-Site](https://github.com/persyjr/exercise-collaborative-html-website.git)</li><li>👨‍💻 All of my projects are available at [https://github.com/persyjr?tab=repositories](https://github.com/persyjr?tab=repositories)</li></ul></div> |
 
 
 # ♣ About me 
 - I consider myself to be a optimistic person, responsible, organized, empathic, who participates in conflict resolution, always maintaining an excellent corporate   culture and personal productivity.
 -  In the future, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 work for the world enjoying my job.
-- I seek to contribute to the development of applications from my knowledge of a modern stack.
   
 ## 🎯 Projects
-
-- I'm currently working in a corporation as quality engineer. Remote experience in the design and creation of front-end and back-end web applications through collaborative methodology using tools such as Git, and Slack.
- Design using React, React Bootstrap, JavaScript, and python technologies focused on REST-type applications and device views.
+- Remote experience in the design and creation of front-end and back-end web applications through collaborative methodology using tools such as Git, and Slack.
+  Design using React, React Bootstrap, JavaScript, and python technologies focused on REST-type applications and device views.
+  Technologies applied JWT extended, Flask, SQLAlchemy, Firebase, and others.
 
 ## ✨ Experience
-- Development of projects following flow methodology by branches in intercontinental remote collaboration.
-- The ability to translate needs to design and build user interfaces from the user's point of view. As well as modeling and managing data in databases.
 - Web developer with experience in teamwork, with excellent interpersonal relationships. 
 - Practical project with emphasis on Python and JavaScript languages, implemented in REST applications, with the use of FLASK technologies and Front-End development   with React, React-Bootstrap.
 - Management of interactive software with the user and inventory management, for the control of services and movements between suppliers and technicians.
 
 ## 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
+- Go Skydiving!
 - Contribute code 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕]
-- 🔨 Build My house and have a home.
 - Contribute code to Google, Facebook and Instagram
-- I want to visit many countries in the World.
 - Create my foundation and help many people.
 
 <!-- QUOTES-->

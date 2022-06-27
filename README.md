@@ -24,7 +24,7 @@
   
 ## 🎯 Projects
 
-- I'm currently working in a corporation like a quality engineer. Remote experience in the design and creation of front-end and back-end web applications through collaborative methodology using tools such as Git, and Slack.
+- I'm currently working in a corporation as quality engineer. Remote experience in the design and creation of front-end and back-end web applications through collaborative methodology using tools such as Git, and Slack.
  Design using React, React Bootstrap, JavaScript, and python technologies focused on REST-type applications and device views.
 
 ## ✨ Experience
